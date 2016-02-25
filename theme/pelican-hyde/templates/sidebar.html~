@@ -13,7 +13,7 @@
 			<p></p>
 		</div>
 		<nav class="sidebar-nav">
-			<a class="sidebar-nav-item" href="mailto:790480953@qq.com">
+			<a class="sidebar-nav-item" href="mailto:guilherme.sft@gmail.com">
 				<i class="fa fa-envelope"></i>
 			</a>
 			{% for name, link in SOCIAL %}
