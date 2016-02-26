@@ -8,12 +8,13 @@
 					{{ SITENAME }}
 				</a>
 			</h1>
+			<p class="lead">{{ SITESUBTITLE }}</p>
 			<p class="lead"></p>
 			<p class="lead">{{ BIO }} </p>
 			<p></p>
 		</div>
 		<nav class="sidebar-nav">
-			<a class="sidebar-nav-item" href="mailto:guilherme.sft@gmail.com">
+			<a class="sidebar-nav-item" href="mailto:790480953@qq.com">
 				<i class="fa fa-envelope"></i>
 			</a>
 			{% for name, link in SOCIAL %}
