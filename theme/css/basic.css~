@@ -105,6 +105,7 @@ a.read-more{
 .wrap-ul{
 	width:150px;	
 	padding:30px 40px 30px 50px;
+	margin-bottom:20px;
 	background-color:lightgreen;
 	text-align:left;
 	border-radius:10px;
