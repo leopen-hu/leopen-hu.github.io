@@ -16,8 +16,11 @@ li{
 a{
 	color:#333;	
 }
-.deco{
+.no-deco{
 	text-decoration:none;
+}
+.center-text{
+	text-align:center;
 }
 /*base.html*/
 .container{
@@ -28,11 +31,11 @@ a{
 /*index.html*/
 .wrap-content{
 	position:relative;
-	padding-left:290px;
 	margin:30px 0px;
 }
-
-
+.left-padding{
+	padding-left:290px;
+}
 .profile-logo{
 	height:64px;
 	margin-bottom:10px;
@@ -92,5 +95,18 @@ a.read-more{
 	height:30px;
 	line-height:30px;
 	font-size:1.2em;
+}
+.siderbar{
+	width:240px;
+	position:absolute;
+	top:185px;
+	left:0px;
+}
+.wrap-ul{
+	width:150px;	
+	padding:30px 40px 30px 50px;
+	background-color:lightgreen;
+	text-align:left;
+	border-radius:10px;
 }
 
