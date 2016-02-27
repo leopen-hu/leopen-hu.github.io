@@ -16,7 +16,7 @@ li{
 a{
 	color:#333;	
 }
-blockquota{
+blockquote{
 	border-left: 4px solid #DDD;
 	padding: 0 15px;
 	color: #777;
