@@ -1,0 +1,96 @@
+
+
+/*Initialize*/
+html,body,div,h1,h2,h3,h4,h5,h6,p,ul,li{
+	margin:0px;
+	padding:0px;
+}
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+li{
+	list-style:none;
+}
+a{
+	color:#333;	
+}
+.no-deco{
+	text-decoration:none;
+}
+/*base.html*/
+.container{
+	width:900px;
+	margin:auto;
+}
+
+/*index.html*/
+.wrap-content{
+	position:relative;
+	padding-left:290px;
+	margin:30px 0px;
+}
+
+
+.profile-logo{
+	height:64px;
+	margin-bottom:10px;
+}
+.profile-image{
+	width:64px;
+	height:64px;
+	float:right;
+}
+.site-name{
+	height:40px;
+	line-height:40px;
+	margin-bottom:8px;
+	text-align:right;
+	
+}
+.site-subtitle{
+	height:25px;
+	line-height:25px;
+	margin-bottom:8px;
+	text-align:right;
+}
+.pages-nav{
+	height:30px;
+}
+.pages-nav ul{
+	float:right;
+}
+.pages-nav li{
+	float:left;
+	margin-left:10px;
+}
+
+.wrap-article{
+	position:relative;
+	padding:30px 0px;
+	min-height:175px;
+	border-top:1px solid #333;
+}
+.article-date {
+	position:absolute;
+	left:-190px;
+	top:35px;
+	width:142px;
+	text-align:right;
+}
+a.date{
+	display:block;
+	width:140px;
+	text-align:right;
+}
+.year-big {
+	font-size:1.8em;
+}
+a.read-more{
+	display:block;
+	height:30px;
+	line-height:30px;
+	font-size:1.2em;
+}
+
