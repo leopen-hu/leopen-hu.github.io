@@ -116,3 +116,6 @@ a.read-more{
 	font-weight:normal;
 	font-size:0.8em;
 }
+.author a{
+	color:#aaa;
+}
